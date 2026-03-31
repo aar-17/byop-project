@@ -17,7 +17,7 @@ Multiple career recommendations
 Easy to modify and extend
 
 
-🧠 How It Works
+How It Works
 
 
 The system uses:
@@ -80,6 +80,9 @@ Future Scope
 Add GUI interface
 Add ranking system
 Expand career database
-👨‍💻 Author
+
+
+Done by
+
 
 Aarush Sudheer
