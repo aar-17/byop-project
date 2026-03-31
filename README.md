@@ -87,11 +87,13 @@ career-system/
 
 │
 
-├── career.pl
+├── CareerSuggestionSystem.pl
 
 ├── README.md
 
-└── report.pdf
+├── Screenshots
+
+└── Report.pdf
 
 
 
