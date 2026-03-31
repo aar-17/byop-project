@@ -2,10 +2,13 @@
 Career Suggestion System (Prolog)
 
 
+
 Description
 
 This is a simple Career Suggestion Expert System built using Prolog.
 It suggests suitable career options based on user input such as interest, skill level, and preferred work type.
+
+
 
 Features
 
@@ -15,6 +18,7 @@ User input-based suggestions
 Input validation
 Multiple career recommendations
 Easy to modify and extend
+
 
 
 How It Works
@@ -29,11 +33,14 @@ Prolog rules (matching logic)
 User inputs are matched with the database to generate suitable career suggestions.
 
 
+
+
 Technologies Used
 
 
 Prolog (SWI-Prolog)
 Visual Studio Code
+
 
 
 How to Run
@@ -47,6 +54,7 @@ Load the file:
 ?- consult('career.pl').
 Start the program:
 ?- mennu.
+
 
 
 Example
@@ -64,6 +72,7 @@ software_engineer
 data_scientist
 
 
+
 Project Structure
 
 
@@ -74,12 +83,14 @@ career-system/
 └── report.pdf
 
 
+
 Future Scope
 
 
 Add GUI interface
 Add ranking system
 Expand career database
+
 
 
 Done by
